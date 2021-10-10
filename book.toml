@@ -5,5 +5,5 @@ multilingual = false
 src = "src"
 title = "The Drakey Web: A Roadmap To Decentralization"
 
-[output]
+[output.html]
 cname = "drakeyweb.com"
